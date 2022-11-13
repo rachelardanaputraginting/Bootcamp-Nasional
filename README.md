@@ -13,11 +13,9 @@ Let's Code Together!!
 
 ### A
 
-
 - Almaarif-2021-usm
 - Al Rizal Sukri - 2018 - Universitas Pembangunan Panca Budi
 - Al muhrezi-2022-Universitas Asahan_
-
 
 ### B
 
@@ -37,7 +35,7 @@ Let's Code Together!!
 
 ### F
 
--
+- FREDY RAMADHANTA.G - 22 - Universita almuslim
 
 ### G
 
@@ -53,11 +51,11 @@ Let's Code Together!!
 
 ### J
 
-- Jhosua Apriel Sylvester - 2021 - Universitas Pembangunan Pacabudi 
+- Jhosua Apriel Sylvester - 2021 - Universitas Pembangunan Pancabudi 
 
 ### K
 
--
+- khairijaarafah - 2020 - Universitas serambi mekkah
 
 ### L
 
@@ -75,7 +73,7 @@ Let's Code Together!!
 
 ### O
 
--O
+- 
 
 ### P
 
@@ -95,7 +93,8 @@ Let's Code Together!!
 
 ### S
 
-- Siti Rahmah - 2021 - Universitas Teuku Umar_
+- Syahrian Lubis - 2020 - Universitas Pembangunan Panca Budi
+- Siti Rahmah - 2021 - Universitas Teuku Umar
 - Safril maulida - 2021 - Universitas Teuku Umar
 
 ### T
@@ -120,7 +119,7 @@ Let's Code Together!!
 
 ### Y
 
--Yahya Muhaimin Sinaga - 2020 - University Pembangunan Panca Budi MEDAN
+- Yahya Muhaimin Sinaga - 2020 - University Pembangunan Panca Budi MEDAN
 
 ### Z
 
